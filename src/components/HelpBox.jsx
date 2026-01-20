@@ -16,4 +16,6 @@ HelpBox.propTypes = {
   text: string,
 };
 
+//This is [skip ci] comment
+
 export default HelpBox;
